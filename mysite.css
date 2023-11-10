@@ -4,7 +4,7 @@ body {
   background: url("photo/5.gif"), radial-gradient(circle, #312b40, #734d6c);
   color: #333;
   font-family: "Pacifico", cursive;
-  overflow: auto; /* افزودن خاصیت پیشفرض overflow: auto به بدنه body */
+  overflow: auto; 
 }
 a {
   text-decoration: none;
@@ -383,7 +383,7 @@ main {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555; /* Color of the thumb on hover */
+  background: #555; 
 }
 
 /* Projects */
