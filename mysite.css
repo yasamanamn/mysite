@@ -253,6 +253,7 @@ main {
   display: flex;
   justify-content: center;
   color: white;
+  font-size: 36px;
 }
 
 .small-page.show {
@@ -457,7 +458,7 @@ main {
 }
 
 #contact h2 {
-  font-size: 3rem;
+  font-size: 36px;
   margin-bottom: 20px;
   font-family: "Pacifico", cursive;
   color: #ffffff;
